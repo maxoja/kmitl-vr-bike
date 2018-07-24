@@ -8,7 +8,7 @@
 ### Unity
 - Game Client Dev
 - Inspector Client Dev
-- [Tata (Stage Design)](google.com)
+- Stage Design ( find asset )
 
 ### Server
 - Game Server
