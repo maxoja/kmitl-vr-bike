@@ -1,17 +1,24 @@
 # kmitl-vr-bike
 
 ## Team Members
-### Hardware
-- Sensor
-- Physical Structure
+### Free
+- Traphume
+- Game
+- Jia
 
-### Unity
-- Game Client Dev
-- Inspector Client Dev
-- Stage Design ( find asset )
+### Hardware - Sensor - Physical Structure
+- Bright ( Coordinator )
+- Sun
+
+### Unity - Game Client - Inspector Client - Stage Design
+- Dan ( Coordinator )
+- Tawan ( temp Coordinator )
+- Pung
+- Tata ( Stage Design )
+- 
 
 ### Server
-- Game Server
+- Nut
 
 ## Associated Repositories
 - [game client repo]()
