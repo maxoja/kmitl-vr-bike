@@ -23,5 +23,5 @@
 ## Associated Repositories
 - [game client repo]()
 - [monitor client repo]()
-- [server repo]()
+- [server repo](https://github.com/Nutthapat1234/bike-server)
 - [sensor controller script repo]()
