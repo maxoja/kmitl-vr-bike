@@ -1,27 +1,22 @@
-# kmitl-vr-bike
+# VR Bike Multiplayer ( IC Openhouse 2018 project )
 
-## Team Members
-### Free
-- Traphume
-- Game
-- Jia
+## Pictures
 
-### Hardware - Sensor - Physical Structure
-- Bright ( Coordinator )
-- Sun
+## How to setup and use
 
-### Unity - Game Client - Inspector Client - Stage Design
-- Dan ( Coordinator )
-- Tawan ( temp Coordinator )
-- Pung
-- Tata ( Stage Design )
-- Jui
-
-### Server
-- Nut
+## Credits
+#### Speed Sensor
+`Bright` `Sun`
+#### Realtime Socket Server
+`Nut` `Tawan`
+#### VR Game/Inspector Client
+`Tawan` `Dan` `Tata` `Jui`
+#### Supporters & Sponsors
+`Samsung Thailand` `T-Bike` `International College Staffs` `P'Ham` `P'James` `Max` `P'Ice` `Traphume` `Jia` `Tangthai` `Tonfah`
 
 ## Associated Repositories
-- [game client repo](https://github.com/maxoja/kmitl-vr-bike-unity)
-- [monitor client repo]()
-- [server repo](https://github.com/Nutthapat1234/bike-server)
-- [sensor controller script repo]()
+- [Game/Inspector Client](https://github.com/maxoja/kmitl-vr-bike-unity)
+- [Realtime Server](https://github.com/Nutthapat1234/bike-server)
+- [Sensor Script]()
+
+###### latest update : 29 Aug 2018
