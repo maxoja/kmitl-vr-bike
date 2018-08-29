@@ -5,8 +5,8 @@
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1400" src="/photos/bike-01.jpg"> | <img width="1400" src="/photos/bike-02.jpg">|<img width="1400" src="/photos/bike-03.jpg">|
-|<img width="1400" src="/photos/bike-04.jpg"> | <img width="1400" src="/photos/bike-05.gif"> | <img width="1400" src="/photos/bike-06.jpg"> |
-|<img width="1400" src="/photos/bike-07.gif"> | <img width="1400" src="/photos/bike-08.jpg"> | <img width="1400" src="/photos/bike-09.jpg">|
+|<img width="1400" src="/photos/bike-04.jpg"> | <img width="1400" src="/photos/bike-07.gif"> | <img width="1400" src="/photos/bike-06.jpg"> |
+|<img width="1400" src="/photos/bike-08.jpg"> | <img width="1400" src="/photos/bike-05.gif"> | <img width="1400" src="/photos/bike-09.jpg">|
 ||||
 
 ## How to setup and use
