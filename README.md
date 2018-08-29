@@ -25,5 +25,5 @@
 ## Credits
 ##### Speed Sensor - `Bright` `Sun`
 ##### Realtime Socket Server - `Nut` [`Tawan`](https://github.com/maxoja)
-##### VR Game/Inspector Client - [`Tawan`](https://github.com/maxoja) `Dan` `Tata` `Jui`
-##### Supporters & Sponsors - [`Samsung Thailand`](https://www.facebook.com/SamsungThailand/) [`T-Bike`](https://www.facebook.com/bikeisara/) [`International College & Staff`](https://www.facebook.com/interkmitl/) `P'Ham` `P'James` `Max` `P'Ice` `Traphume` `Jia` `Tangthai` `Tonfah`
+##### VR Game/Inspector Client - [`Tawan`](https://github.com/maxoja) `Dan` `Tata` `Jui` `P'Ice`
+##### Supporters & Sponsors - [`Samsung Thailand`](https://www.facebook.com/SamsungThailand/) [`T-Bike`](https://www.facebook.com/bikeisara/) [`International College & Staff`](https://www.facebook.com/interkmitl/) `P'Ham` `P'James` `Max` `Traphume` `Jia` `Tangthai` `Tonfah`
