@@ -1,4 +1,4 @@
-# VR Bike Multiplayer by International College KMITL
+# VR Bike Multiplayer - International College KMITL
 
 | Contributive project to | IC Open House | 23 - 25 August 2018 |
 |:-------------------------:|:-------------------------:|:-------------------------:|
