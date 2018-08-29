@@ -2,6 +2,13 @@
 ###### latest update : 29 Aug 2018
 ## Pictures
 
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1400" src="/photos/bike-01.jpg"> | <img width="1400" src="/photos/bike-02.jpg">|<img width="1400" src="/photos/bike-03.jpg">|
+|<img width="1400" src="/photos/bike-04.jpg"> | ![alt text](/photos/bike-05.gif) | <img width="1400" src="/photos/bike-06.jpg"> |
+|<img width="1400" src="/photos/bike-07.jpg"> | <img width="1400" src="/photos/bike-08.jpg"> | <img width="1400" src="/photos/bike-09.jpg">|
+||||
+
 ## How to setup and use
 
 ## Credits
