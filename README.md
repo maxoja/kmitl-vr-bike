@@ -20,7 +20,7 @@
 ## Associated Repositories
 - [Game/Inspector Client](https://github.com/maxoja/kmitl-vr-bike-unity)
 - [Realtime Server](https://github.com/Nutthapat1234/bike-server)
-- [Sensor Script - not ready yet]()
+- The sensor scripts are lost (it's a shame)
 
 ## Credits
 ##### Speed Sensor - `Bright` `Sun`
